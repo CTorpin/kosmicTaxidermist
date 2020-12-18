@@ -6,5 +6,7 @@ follow instructions for main board build from circuitbendersUK. use a 9v regulat
 the mainboard LED and LED resistor are not needed--the mod board LED will replace it.
 
 then install components on mod board before wiring.
+
 refer to wiring diagram PNG
+
 lower=1 low=2 high=3 higher=4
